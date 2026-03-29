@@ -1,0 +1,9 @@
+node_modules
+session
+auth_info
+creds.json
+tmp
+temp
+.baileys
+*.log
+store.json
